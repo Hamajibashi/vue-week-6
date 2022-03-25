@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week_6"]=self["webpackChunkvue_week_6"]||[]).push([[510],{1510:function(e,n,u){u.r(n),u.d(n,{default:function(){return k}});var r=u(3396);function t(e,n){return(0,r.wg)(),(0,r.iD)("h2",null,"優惠券管理")}var c=u(89);const a={},f=(0,c.Z)(a,[["render",t]]);var k=f}}]);
+//# sourceMappingURL=510.59757e11.js.map

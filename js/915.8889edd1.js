@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week_6"]=self["webpackChunkvue_week_6"]||[]).push([[915],{5915:function(e,n,u){u.r(n),u.d(n,{default:function(){return k}});var r=u(3396);const t=(0,r._)("h2",null,"404",-1),l=(0,r._)("p",null,"網址好像錯囉！",-1);function c(e,n){return(0,r.wg)(),(0,r.iD)(r.HY,null,[t,l],64)}var s=u(89);const a={},f=(0,s.Z)(a,[["render",c]]);var k=f}}]);
+//# sourceMappingURL=915.8889edd1.js.map
